@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DankoBalaz, welcome to my crib.
-- I am currently learning the fundamentals of UNIX administration and scripting and front-end development.
-- I work as a technical copywriter for BetterStack and you can see a lot of my work at their community websites.
+- I am currently learning how to administrate Linux servers (especially deployment of new projects, networking and logging)
+- I also try to step up my frontend game
+- I make my bread as a contract copywriter for BetterStack and you can see a lot of my work at their community websites. I focus on DevOps topics and tools.
 - You can reach me on twitter @dankobalaz
 
 <!---
