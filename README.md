@@ -1,7 +1,7 @@
-## Hello World, I’m @DankoBalaz:
+## Hello World, I'm Daniel.
 - I am a junior full-stack developer in a small Business Consulting Startup. I currently work on migrating the infrastructure from monolith to microservices. 
-- I built a solid understanding of software and DevOps thanks to writing articles for [Better Stack](https://betterstack.com) and you can see a lot of my work at their community websites.
-- My goal for **2023** is to work more on my personal projects and to start contributing to open-source. 
+- I built a solid understanding of software and DevOps thanks to writing articles for [Better Stack](https://betterstack.com) and you can see a lot of my work on their community websites.
+- My goal for **2023** is to work more on my personal projects and to start contributing to open-source.
 ### My current tech stack covers (various levels of proficiency):
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
